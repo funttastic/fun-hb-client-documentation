@@ -2,9 +2,8 @@
 
 ## Hummingbot Installation Guide
 It's very recommended to watch this video from the Hummingbot Foundation and their installation guide:
-- [https://www.youtube.com/watch?v=t3Su_F_SY_0](https://www.youtube.com/watch?v=t3Su_F_SY_0){:target="_blank"}
-- [https://docs.hummingbot.org/installation/](https://docs.hummingbot.org/installation/){:target="_blank"}
-- [https://docs.hummingbot.org/quickstart/](https://docs.hummingbot.org/quickstart/){:target="_blank"}
+ - <a href="https://docs.hummingbot.org/installation/" target="_blank">https://docs.hummingbot.org/installation/</a>
+ - <a href="https://www.youtube.com/watch?v=t3Su_F_SY_0" target="_blank">https://www.youtube.com/watch?v=t3Su_F_SY_0</a>
 
 ## Prerequisites:
 - [Docker](https://docs.docker.com/engine/install/){:target="_blank"}
